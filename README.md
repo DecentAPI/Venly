@@ -3,7 +3,7 @@
   <h3 align="center">Venly Data Pinner</h3>
 
   <p align="center">
-Pin any existing Venly NFT on IPFS using only the Smart Contract address and the Token ID with the resulting CID on the Blockchain..   <br />
+Pin any existing Venly NFT on IPFS using only the Smart Contract address and the Token ID with the resulting CID on the Blockchain.   <br />
     <br />
     <a href="https://venly.decentapi.com/">Try our Dapp</a>
     ·
